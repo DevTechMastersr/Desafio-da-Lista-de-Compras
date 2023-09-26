@@ -1,7 +1,9 @@
 <h1 align="center"> Lista de Compras </h1>
 
-<p align="center">
-<a href="https://www.rocketseat.com.br/boracodar">#boraCodar</a> são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+ align="center">
+
+<p![header](https://github.com/DevTechMastersr/Desafio-da-Lista-de-Compras/assets/145814759/a3d07018-b2d2-46d7-a430-0edd5e7b615c)
+
 </p>
 
 <p align="center">
