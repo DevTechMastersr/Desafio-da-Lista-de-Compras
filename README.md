@@ -1,8 +1,8 @@
 <h1 align="center"> Lista de Compras </h1>
 
- align="center">
+ ![preview (1)](https://github.com/DevTechMastersr/Desafio-da-Lista-de-Compras/assets/145814759/3ff5904d-10c3-40b1-8b32-511c9a4a88ea)
 
-<p![header](https://github.com/DevTechMastersr/Desafio-da-Lista-de-Compras/assets/145814759/a3d07018-b2d2-46d7-a430-0edd5e7b615c)
+
 
 </p>
 
