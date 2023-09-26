@@ -38,6 +38,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
+Feito com ♥ pelo DevTECH Lucas [https://devtechmastersr.github.io/Maratona-Explorer-2.0]
+
 ---
 
 Feito com ♥ pelo DevTECH Lucas [Siga-me nas Redes Sociais ao qual estarei deixando o link para meus canais de comunicação comunidade!]()
